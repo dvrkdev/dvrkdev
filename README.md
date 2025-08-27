@@ -5,11 +5,15 @@ I’m passionate about building projects, learning new technologies, and sharing
 
 ---
 
-## 📚 What I've Learned So Far  
-- ✅ Learned **HTML** in just **10 days**  
-- ✅ Completed an **HTML course** and built my **first project** → [HTML Project Repo](https://github.com/dvrkdev/html-project)  
-- ✅ Earned the **"HTML Introduction" Certificate** from Sololearn → [View Certificate](https://www.sololearn.com/certificates/CC-1PQBJBBJ)  
-- 🎯 Currently learning **CSS**  
+## 📚 What I've Learned So Far
+
+* ✅ Learned **HTML** in just **10 days**
+* ✅ Completed an **HTML course** and built my **first project** → [HTML Project Repo](https://github.com/dvrkdev/html-project)
+* ✅ Earned the **"HTML Introduction" Certificate** from Sololearn → [View Certificate](https://www.sololearn.com/certificates/CC-1PQBJBBJ)
+* 🎯 Currently learning **CSS**
+
+  * ✅ Earned the **"CSS Introduction" Certificate** from Sololearn → [View Certificate](https://www.sololearn.com/certificates/CC-UDZZTQKR)
+  * ✅ Built a **Registration Form project** → [CSS Project Repo](https://github.com/dvrkdev/registration-form)
 
 ---
 
