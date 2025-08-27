@@ -15,7 +15,8 @@ I’m passionate about building projects, learning new technologies, and sharing
 
 ## 🛠️ Skills Progress  
 - **First Skill Acquired:** HTML  
-- **Next Step:** CSS  
+- **Next Step:**  
+    **CSS**: ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐✩✩✩✩✩✩✩✩✩✩  (14/24)  
 
 ---
 
