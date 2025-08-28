@@ -10,7 +10,7 @@
   - 🎓 [HTML Introduction Certificate](https://www.sololearn.com/certificates/CC-1PQBJBBJ)
 
 - 🎯 Currently learning **CSS**
-  - 🎓 [CSS Introduction Certificate](https://www.sololearn.com/certificates/CC-UDZZTQKR)s
+  - 🎓 [CSS Introduction Certificate](https://www.sololearn.com/certificates/CC-UDZZTQKR)
   - 🛠️ [Registration Form Project](https://github.com/dvrkdev/registration-form)
 
 ---
