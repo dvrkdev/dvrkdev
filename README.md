@@ -1,39 +1,35 @@
-# 👋 Hi, I'm Diyorbek Qodirboyev  
+# 👋 Hi, I'm Diyorbek Qodirboyev
 
-I'm an aspiring **Full-Stack Web Developer**, currently at the beginning of my journey.  
-I’m passionate about building projects, learning new technologies, and sharing my progress. 🚀  
-
----
-
-## 📚 What I've Learned So Far
-
-* ✅ Learned **HTML** in just **10 days**
-* ✅ Completed an **HTML course** and built my **first project** → [HTML Project Repo](https://github.com/dvrkdev/html-project)
-* ✅ Earned the **"HTML Introduction" Certificate** from Sololearn → [View Certificate](https://www.sololearn.com/certificates/CC-1PQBJBBJ)
-* 🎯 Currently learning **CSS**
-
-  * ✅ Earned the **"CSS Introduction" Certificate** from Sololearn → [View Certificate](https://www.sololearn.com/certificates/CC-UDZZTQKR)
-  * ✅ Built a **Registration Form project** → [CSS Project Repo](https://github.com/dvrkdev/registration-form)
+💻 **Self-taught Developer (in progress)** | Passionate about building, learning, and sharing 🚀
 
 ---
 
-## 🛠️ Skills Progress  
-- **First Skill Acquired:** HTML  
-- **Next Step:**  
-    **CSS**: ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐✩✩✩✩✩✩✩✩✩✩  (14/24)  
+## 📚 Learning Journey
+
+- ✅ Completed **HTML (10 days)** → [HTML Project Repo](https://github.com/dvrkdev/html-project)
+  - 🎓 [HTML Introduction Certificate](https://www.sololearn.com/certificates/CC-1PQBJBBJ)
+
+- 🎯 Currently learning **CSS**
+  - 🎓 [CSS Introduction Certificate](https://www.sololearn.com/certificates/CC-UDZZTQKR)s
+  - 🛠️ [Registration Form Project](https://github.com/dvrkdev/registration-form)
 
 ---
 
-## 🌐 Other Profiles  
-- [💻 GitHub](https://github.com/dvrkdev)  
-- [📖 Sololearn](https://www.sololearn.com/en/profile/34538663)  
-- [✍️ Medium](https://medium.com/@dvrk.devx)  
-- [📬 Telegram](https://t.me/dvrkdev)  
+## 🛠️ Skills Progress
+
+- **HTML**: ████████████████████ 100%
+- **CSS**: ████████████░░░░░░░░ 58%
+- **Next Step:** JavaScript ⚡
 
 ---
 
-## 🎯 Goal  
-I am striving to become a **capable Full-Stack Developer** by consistently learning, practicing, and building projects.  
+## 🌐 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/dvrkdev)
+[![Sololearn](https://img.shields.io/badge/Sololearn-149EF2?style=flat&logo=sololearn&logoColor=white)](https://www.sololearn.com/en/profile/34538663)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@dvrk.devx)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/dvrkdev)
 
 ---
-⭐️ *Thanks for visiting my profile!*
+
+⭐ *Thanks for visiting my profile!*
