@@ -1,35 +1,39 @@
-# 👋 Hi, I'm Diyorbek Qodirboyev
+# 👋 Hi, I'm Diyorbek Qodirboyev  
 
-💻 **Self-taught Developer (in progress)** | Passionate about building, learning, and sharing 🚀
+💻 **Self-taught Developer (in progress)** | Passionate about building, learning, and sharing 🚀  
 
 ---
 
-## 📚 Learning Journey
+## 📜 Certificates
+- [HTML Intro](https://www.sololearn.com/certificates/CC-1PQBJBBJ) 🟠  
+- [CSS Intro](https://www.sololearn.com/certificates/CC-UDZZTQKR) 🔵  
+- [JavaScript Intro](https://www.sololearn.com/certificates/CC-YOBGLOPK) 🟡  
 
-- ✅ Completed **HTML (10 days)** → [HTML Project Repo](https://github.com/dvrkdev/html-project)
-  - 🎓 [HTML Introduction Certificate](https://www.sololearn.com/certificates/CC-1PQBJBBJ)
+---
 
-- 🎯 Currently learning **CSS**
-  - 🎓 [CSS Introduction Certificate](https://www.sololearn.com/certificates/CC-UDZZTQKR)
-  - 🛠️ [Registration Form Project](https://github.com/dvrkdev/registration-form)
+## 🚀 Projects
+- ☕ [Brew Haven — Coffee & Community](https://github.com/dvrkdev/html-project) ✅  
+- 📝 [Registration Form](https://github.com/dvrkdev/registration-form) ✅  
+- 🔧 [Flask User Management](https://github.com/dvrkdev/flask-user-management) *(in progress)*  
 
 ---
 
 ## 🛠️ Skills Progress
-
-- **HTML**: ████████████████████ 100%
-- **CSS**: ████████████░░░░░░░░ 58%
-- **Next Step:** JavaScript ⚡
-
----
-
-## 🌐 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/dvrkdev)
-[![Sololearn](https://img.shields.io/badge/Sololearn-149EF2?style=flat&logo=sololearn&logoColor=white)](https://www.sololearn.com/en/profile/34538663)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@dvrk.devx)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/dvrkdev)
+- **HTML**: ████████████████████ 100%  
+- **CSS**: ████████████░░░░░░░░ 58%  
+- **Next Step:** JavaScript ⚡  
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+## 🌐 Connect with Me  
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dvrkdev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dvrkdev/)
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dvrkdev)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dvrkdev)
+[![Sololearn](https://img.shields.io/badge/-Sololearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/en/profile/34538663)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dvrk.devx)  
+
+---
+
+⭐ *Thanks for visiting my profile!*  
