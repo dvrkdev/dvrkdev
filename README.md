@@ -14,14 +14,8 @@
 ## 🚀 Projects
 - ☕ [Brew Haven — Coffee & Community](https://github.com/dvrkdev/html-project) ✅  
 - 📝 [Registration Form](https://github.com/dvrkdev/registration-form) ✅  
-- 🔧 [Flask User Management](https://github.com/dvrkdev/flask-user-management) *(in progress)*  
+- 🔧 [Flask Notes App](https://github.com/dvrkdev/flask-notes-app) *(MVP)*  
 
----
-
-## 🛠️ Skills Progress
-- **HTML**: ████████████████████ 100%  
-- **CSS**: ████████████░░░░░░░░ 58%  
-- **Next Step:** JavaScript ⚡  
 
 ---
 
