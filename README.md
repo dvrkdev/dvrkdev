@@ -12,8 +12,6 @@
 ---
 
 ## 🚀 Projects
-- ☕ [Brew Haven — Coffee & Community](https://github.com/dvrkdev/html-project) ✅  
-- 📝 [Registration Form](https://github.com/dvrkdev/registration-form) ✅  
 - 🔧 [Flask Notes App](https://github.com/dvrkdev/flask-notes-app) *(MVP)*  
 
 
