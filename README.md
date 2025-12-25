@@ -5,6 +5,7 @@
 ---
 
 ## 📜 Certificates
+
 - [HTML Intro](https://www.sololearn.com/certificates/CC-1PQBJBBJ) 🟠  
 - [CSS Intro](https://www.sololearn.com/certificates/CC-UDZZTQKR) 🔵  
 - [JavaScript Intro](https://www.sololearn.com/certificates/CC-YOBGLOPK) 🟡  
@@ -12,8 +13,8 @@
 ---
 
 ## 🚀 Projects
-- 🔧 [Flask Notes App](https://github.com/dvrkdev/flask-notes-app) *(MVP)*  
 
+- 🔧 [Flask Notes App](https://github.com/dvrkdev/flask-notes-app) *(MVP)*  
 
 ---
 
