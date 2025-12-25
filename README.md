@@ -14,7 +14,7 @@
 
 ## 🚀 Projects
 
-- 🔧 [Flask Notes App](https://github.com/dvrkdev/flask-notes-app) *(MVP)*  
+- 🔧 [Flask Notes App](https://github.com/dvrkdev/flask-notes-app) ✅  
 
 ---
 
