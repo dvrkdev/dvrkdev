@@ -14,7 +14,8 @@
 
 ## 🚀 Projects
 
-- 🔧 [Flask Notes App](https://github.com/dvrkdev/flask-notes-app) ✅  
+- 🔧 [Flask Notes App](https://github.com/dvrkdev/flask-notes-app) ✅
+- 🤖 [Recommendation & Ranking Engine](https://github.com/dvrkdev/recommendation-ranking-engine) *(in progress)*
 
 ---
 
