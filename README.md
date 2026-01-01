@@ -5,10 +5,13 @@ Focused on building scalable backend systems, APIs, and data-driven applications
 
 ## 🚀 Projects
 
-- 🔧 **[Flask Notes App](https://github.com/dvrkdev/flask-notes-app)**  
+- 🔧 **[Flask Notes App](https://github.com/dvrkdev/flask-notes-app)**
   Authentication-based notes application with CRUD functionality.
 
-- 🤖 **[Recommendation & Ranking Engine](https://github.com/dvrkdev/recommendation-ranking-engine)** *(in progress)*  
+- 📝 **[Quiz App](https://github.com/dvrkdev/quiz-app)**
+  Web-based quiz platform with dynamic question management, test logging, and result tracking.
+
+- 🤖 **[Recommendation & Ranking Engine](https://github.com/dvrkdev/recommendation-ranking-engine)** *(in progress)*
   Behavior-based recommendation system with scoring, ranking, and personalization logic.
 
 ## 📜 Certificates
