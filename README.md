@@ -20,9 +20,7 @@ Focused on building scalable backend systems, APIs, and data-driven applications
 
 ## 📜 Certificates
 
-- [HTML Intro](https://www.sololearn.com/certificates/CC-1PQBJBBJ)  
-- [CSS Intro](https://www.sololearn.com/certificates/CC-UDZZTQKR)  
-- [JavaScript Intro](https://www.sololearn.com/certificates/CC-YOBGLOPK)  
+[HTML Intro](https://www.sololearn.com/certificates/CC-1PQBJBBJ) | [CSS Intro](https://www.sololearn.com/certificates/CC-UDZZTQKR) | [JavaScript Intro](https://www.sololearn.com/certificates/CC-YOBGLOPK)
 
 ## 🌐 Connect with Me  
 
