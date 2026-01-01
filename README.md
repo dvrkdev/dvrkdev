@@ -3,6 +3,10 @@
 💻 **Backend Developer (Python)**  
 Focused on building scalable backend systems, APIs, and data-driven applications 🚀  
 
+## 🛠️ Tech Stack
+
+Python | Flask | SQLAlchemy
+
 ## 🚀 Projects
 
 - 🔧 **[Flask Notes App](https://github.com/dvrkdev/flask-notes-app)**
@@ -27,5 +31,9 @@ Focused on building scalable backend systems, APIs, and data-driven applications
 [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dvrkdev)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dvrkdev)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dvrk.devx)
+
+![Diyorbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvrkdev&show_icons=true&theme=radical)
+
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dvrkdev&theme=radical) -->
 
 ⭐ Thanks for visiting my profile!
