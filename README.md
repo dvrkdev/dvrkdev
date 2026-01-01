@@ -32,8 +32,16 @@ Python | Flask | SQLAlchemy
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dvrkdev)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dvrk.devx)
 
-![Diyorbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvrkdev&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dvrkdev&theme=radical) -->
+![...](https://github-readme-stats.vercel.app/api?username=dvrkdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+
+![...](https://nirzak-streak-stats.vercel.app/?user=dvrkdev&theme=dark&hide_border=false)  
+
+![...](https://github-readme-stats.vercel.app/api/top-langs/?username=dvrkdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+
+## 🔝 Top Contributed Repo
+
+![...](https://github-contributor-stats.vercel.app/api?username=dvrkdev&limit=5&theme=dark&combine_all_yearly_contributions=true)  
 
 ⭐ Thanks for visiting my profile!
