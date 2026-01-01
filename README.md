@@ -5,7 +5,7 @@ Focused on building scalable backend systems, APIs, and data-driven applications
 
 ## 🛠️ Tech Stack
 
-Python | Flask | SQLAlchemy
+[Python](https://www.python.org/) | [Flask](https://flask.palletsprojects.com/) | [SQLAlchemy](https://www.sqlalchemy.org/)
 
 ## 🚀 Projects
 
