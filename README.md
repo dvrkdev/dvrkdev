@@ -12,12 +12,6 @@ Focused on building scalable backend systems, APIs, and data-driven applications
 - [Flask Notes App](https://github.com/dvrkdev/flask-notes-app)
   Authentication-based notes application with CRUD functionality.
 
-- [Quiz App](https://github.com/dvrkdev/quiz-app)
-  Web-based quiz platform with dynamic question management, test logging, and result tracking.
-
-- [Recommendation & Ranking Engine](https://github.com/dvrkdev/recommendation-ranking-engine) *(in progress)*
-  Behavior-based recommendation system with scoring, ranking, and personalization logic.
-
 ## Certificates
 
 - Sololearn: [HTML Intro](https://www.sololearn.com/certificates/CC-1PQBJBBJ) | [CSS Intro](https://www.sololearn.com/certificates/CC-UDZZTQKR) | [JavaScript Intro](https://www.sololearn.com/certificates/CC-YOBGLOPK)
