@@ -1,4 +1,4 @@
-# Diyorbek Qodirboyev – Backend Developer
+# About Me
 
 Hi, I'm Diyorbek Qodirboyev, a Backend Developer specializing in Python, dedicated to building scalable backend systems, APIs, and data-driven applications.
 
