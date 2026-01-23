@@ -23,7 +23,3 @@ Focused on building scalable backend systems, APIs, and data-driven applications
 - X: [https://x.com/dvrkdev](https://x.com/dvrkdev)
 - Telegram: [https://t.me/dvrkdev](https://t.me/dvrkdev)
 - Medium: [https://medium.com/@dvrk.devx](https://medium.com/@dvrk.devx)
-
-## GitHub Stats
-
-- See your contribution stats and top repositories on GitHub.
