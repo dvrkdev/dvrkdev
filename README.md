@@ -1,11 +1,9 @@
 # About Me
 
-Hi, I'm Diyorbek Qodirboyev, a Backend Developer specializing in Python, dedicated to building scalable backend systems, APIs, and data-driven applications.
+Hi, I'm **Diyorbek Qodirboyev**, a Backend Developer specializing in Python, focused on building scalable backend systems, APIs, and data-driven applications. I work primarily with [Python](https://www.python.org/), [Flask](https://flask.palletsprojects.com/), [Django](https://www.djangoproject.com/), and [SQLAlchemy](https://www.sqlalchemy.org/) to create efficient and maintainable solutions.
 
-My core tech stack includes [Python](https://www.python.org/), [Flask](https://flask.palletsprojects.com/), and [SQLAlchemy](https://www.sqlalchemy.org/), which I leverage to develop efficient and maintainable solutions.
+My projects include the [**Flask Notes App**](https://github.com/dvrkdev/flask-notes-app), a note-taking app with CRUD functionality, and the [**Todo Website**](https://github.com/dvrkdev/todo-website), a task management app with authentication. I have hands-on experience with both Flask and Django frameworks.
 
-One of my key projects is the [Flask Notes App](https://github.com/dvrkdev/flask-notes-app), an authentication-based notes application with full CRUD functionality.
+I hold Sololearn certificates in [HTML Intro](https://www.sololearn.com/certificates/CC-1PQBJBBJ), [CSS Intro](https://www.sololearn.com/certificates/CC-UDZZTQKR), and [JavaScript Intro](https://www.sololearn.com/certificates/CC-YOBGLOPK), showcasing my foundational web development skills.
 
-I have also earned Sololearn certificates in [HTML Intro](https://www.sololearn.com/certificates/CC-1PQBJBBJ), [CSS Intro](https://www.sololearn.com/certificates/CC-UDZZTQKR), and [JavaScript Intro](https://www.sololearn.com/certificates/CC-YOBGLOPK), showcasing my foundational web development skills.
-
-You can connect with me through [GitHub](https://github.com/dvrkdev), [LinkedIn](https://www.linkedin.com/in/dvrkdev/), [X](https://x.com/dvrkdev), [Telegram](https://t.me/dvrkdev), and [Medium](https://medium.com/@dvrk.devx) to explore my work, projects, and technical insights.
+You can explore my work and connect with me through [GitHub](https://github.com/dvrkdev), [LinkedIn](https://www.linkedin.com/in/dvrkdev/), [X](https://x.com/dvrkdev), [Telegram](https://t.me/dvrkdev), and [Medium](https://medium.com/@dvrk.devx).
